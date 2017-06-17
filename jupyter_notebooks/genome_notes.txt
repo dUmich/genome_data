@@ -1,0 +1,2 @@
+exact pattern matching of nucleotides maybe not the best.
+would possibly chunk (convolutional) and iterate for better results.
